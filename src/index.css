@@ -1,0 +1,12 @@
+@import-normalize; /* bring in normalize.css styles */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  /* background-color: #2e3b98; */
+  width: 100vw;
+  height: auto;
+  display: block;
+}
